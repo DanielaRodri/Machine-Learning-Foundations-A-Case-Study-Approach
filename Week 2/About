@@ -1,0 +1,6 @@
+This week you will build your first intelligent application that makes predictions from data.
+We will explore this idea within the context of our first case study, predicting house prices, 
+where you will create models that predict a continuous value (price) from input features (square footage, number of bedrooms and bathrooms,...).
+This is just one of the many places where regression can be applied.Other applications range from predicting health outcomes in medicine,
+stock prices in finance, and power usage in high-performance computing, to analyzing which regulators are important for gene expression.
+You will also examine how to analyze the performance of your predictive model and implement regression in practice using a Jupyter notebook.
