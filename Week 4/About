@@ -1,0 +1,6 @@
+A reader is interested in a specific news article and you want to find a similar articles to recommend. 
+What is the right notion of similarity? How do I automatically search over documents to find the one that is most similar?
+How do I quantitatively represent the documents in the first place?. In this third case study, retrieving documents, 
+you will examine various document representations and an algorithm to retrieve the most similar subset. You will also consider
+structured representations of the documents that automatically group articles by similarity (e.g., document topic).
+You will actually build an intelligent document retrieval system for Wikipedia entries in an Jupyter notebook.
